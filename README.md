@@ -1,2 +1,2 @@
 # Next-Word-Prediction
-A system to predict new words using Neural Networks (LSTM)
+A Deep Learning project to predict next words using Neural Networks - Long Short Term Memory Networks (LSTM)
